@@ -9,24 +9,22 @@ https://en.wikipedia.org/wiki/ISO_3166-1
 https://github.com/kurowskicisa/countries/blob/master/countries_2code_eng.txt
 
 Example:
-<code>
-<br>
-`<option value="KP">North Korea</option>`<br>
-`<option value="MP">Northern Marianas</option>`<br>
-`<option value="NO">Norway</option>`<br>
-</code>
+```
+    <option value="KP">North Korea</option>
+    <option value="MP">Northern Marianas</option>
+    <option value="NO">Norway</option>
+```
 
 
 ###File: countries_2code_pol.txt<br>
 https://github.com/kurowskicisa/countries/blob/master/countries_2code_pol.txt
 
 Example:
-<code>
-<br>
-`<option value="NO">Norwegia</option>`<br>
-`<option value="NC">Nowa Kaledonia</option>`<br>
-`<option value="NZ">Nowa Zelandia</option>`<br>
-</code>
+```
+    <option value="NO">Norwegia</option>
+    <option value="NC">Nowa Kaledonia</option>
+    <option value="NZ">Nowa Zelandia</option>
+```
 
 
 ###File: countries_pol_pol.txt<br>
