@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/ISO_3166-1
 ###File: countries_2code_eng.txt<br>
 https://github.com/kurowskicisa/countries/blob/master/countries_2code_eng.txt
 
-Example
+Example:
 <code>
 <br>
 `<option value="KP">North Korea</option>`<br>
@@ -20,7 +20,7 @@ Example
 ###File: countries_2code_pol.txt<br>
 https://github.com/kurowskicisa/countries/blob/master/countries_2code_pol.txt
 
-Example
+Example:
 <code>
 <br>
 `<option value="NO">Norwegia</option>`<br>
@@ -32,15 +32,12 @@ Example
 ###File: countries_pol_pol.txt<br>
 https://github.com/kurowskicisa/countries/blob/master/countries_pol_pol.txt
 
-Example
-<code>
-<br>
-`<option value="Norwegia">Norwegia</option>`<br>
-`<option value="Nowa Kaledonia">Nowa Kaledonia</option>`<br>
-`<option value="Nowa Zelandia">Nowa Zelandia</option>`<br>
-
-</code>
-
+Example:
+```
+    <option value="Norwegia">Norwegia</option>
+    <option value="Nowa Kaledonia">Nowa Kaledonia</option>
+    <option value="Nowa Zelandia">Nowa Zelandia</option>
+```
 
 
 Date: 2018.10.25
