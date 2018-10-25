@@ -35,9 +35,10 @@ https://github.com/kurowskicisa/countries/blob/master/countries_pol_pol.txt
 Example
 <code>
 <br>
-`<option value="Norwegia">Norwegia</option>`
-`<option value="Nowa Kaledonia">Nowa Kaledonia</option>`
-`<option value="Nowa Zelandia">Nowa Zelandia</option>`
+`<option value="Norwegia">Norwegia</option>`<br>
+`<option value="Nowa Kaledonia">Nowa Kaledonia</option>`<br>
+`<option value="Nowa Zelandia">Nowa Zelandia</option>`<br>
+
 </code>
 
 
