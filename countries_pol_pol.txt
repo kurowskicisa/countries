@@ -139,7 +139,6 @@
 <option value="Namibia">Namibia</option>
 <option value="Nauru">Nauru</option>
 <option value="Nepal">Nepal</option>
-<option value="Nowa Zelandia">Nowa Zelandia</option>
 <option value="Niemcy">Niemcy</option>
 <option value="Niger">Niger</option>
 <option value="Nigeria">Nigeria</option>
@@ -148,6 +147,7 @@
 <option value="Norfolk">Norfolk</option>
 <option value="Norwegia">Norwegia</option>
 <option value="Nowa Kaledonia">Nowa Kaledonia</option>
+<option value="Nowa Zelandia">Nowa Zelandia</option>
 <option value="Oman">Oman</option>
 <option value="Pakistan">Pakistan</option>
 <option value="Palau">Palau</option>
